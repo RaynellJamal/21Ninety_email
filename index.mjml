@@ -1,0 +1,221 @@
+<mjml>
+  <mj-head>
+  <mj-title>21 Ninety Newsletter</mj-title>
+  <mj-preview>
+    Black Americans face worse cancer outcomes compared to other racial or ethnic groups. Novartis is working to help address this issue.
+  </mj-preview>
+    <mj-attributes>
+      <mj-class name="h1" color="#00000" font-size="28px" align="center" font-weight="bold" font-family="Helvetica" />
+    </mj-attributes>
+
+    <mj-style>
+      * {
+        box-sizing: border-box;
+        font-family: Helvetica, Arial;
+
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .browser-link {
+        color: #656565;
+      }
+
+      .link-color {
+        color: #db6f4e;
+        font-weight: bold;
+      }
+
+      .bg-white {
+        background-color: #ffffff;
+      }
+
+      .bg-black {
+        background-color: #000000;
+      }
+
+      .text-color {
+        color: #ffffff
+      }
+    </mj-style>
+  </mj-head>
+
+
+  <mj-body background-color="#f2f2f2">
+    <mj-raw>
+      <!-- Heade link -->
+    </mj-raw>
+    <mj-section padding="20px">
+      <mj-column padding="0">
+        <mj-text align="center" font-size="12px">
+          <a href="#" alt="View this email in your browser" class="browser-link">View this email in your browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Hero Image -->
+    </mj-raw>
+    <mj-section padding="0" css-class="bg-white">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/Mc5c2dz/hero.png" alt="21Ninety" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- About Novartis -->
+    </mj-raw>
+    <mj-section padding="20px" css-class="bg-white">
+      <mj-column padding="0px">
+        <mj-text mj-class="h1" color="#000000">
+          ABOUT NOVARTIS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" css-class="bg-white">
+      <mj-column css-class="bg-white">
+        <mj-text padding="0" align="center" line-height="25px" font-size="14px">
+          Black Americans face worse cancer outcomes compared to other racial or ethnic groups. <br>
+          Novartis is working to help address this issue.
+        </mj-text>
+        <mj-spacer height="25px" />
+        <mj-text padding="0" align="center" line-height="25px" font-size="14px">
+          Novartis is an innovative medicines company that uses science and technology to address some of society's most challenging health care issues— including cancer. They develop breakthrough treatments and find new ways to deliver them to as many people as possible.
+        </mj-text>
+        <mj-spacer height="25px" />
+        <mj-text padding="0" align="center" line-height="25px" font-size="14.5px">
+          Through its own programs and partnerships with other organizations and institutions, Novartis is striving to address the root causes and systemic racism behind health disparities.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./components/divider.mjml" />
+
+    <mj-raw>
+      <!-- How Novartis -->
+    </mj-raw>
+    <mj-section padding="0px" css-class="bg-white">
+      <mj-column padding="0px">
+        <mj-text mj-class="h1" padding="20px">
+          HOW NOVARTIS IS PARTNERING TO ADDRESS BARRIERS TO HEALTH CARE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px" css-class="bg-white">
+      <mj-column>
+        <mj-text padding="0" align="left" line-height="25px" font-size="14px" color="#000000">
+          Novartis is partnering with American Cancer Society to help their <a href="https://www.cancer.org/cancer/screening/get-screened.html" alt="Get screened" class="link-color">Get Screened</a> initiative reach the Black community. This campaign educates about the importance of cancer screening with the goal of promoting early detection when cancer is easier to treat. The more people know about their health, the better they can take action.
+        </mj-text>
+        <mj-spacer height="25px" />
+        <mj-text padding="0" align="left" line-height="25px" font-size="14px">
+          <a href="https://www.novartis.com/us-en/esg/beacon-hope" alt="Beacon of Hope" class="link-color">Beacon of Hope</a> is Novartis’ bold response to health disparities rooted in systemic racism. With this initiative, they are identifying high-priority healthcare inequities and developing concrete plans to address them. Its focus includes establishing centers of excellence for clinical trials and research. The goal of these centers is to increase diversity of researchers and participants in clinical trials. It is also helping to provide access to high-quality education to empower the next generation of Black students to become leaders in healthcare.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./components/divider.mjml" />
+
+    <mj-raw>
+      <!-- Executive Spotlight -->
+    </mj-raw>
+    <mj-section padding="20px" css-class="bg-white">
+      <mj-text mj-class="h1">
+        EXECUTIVE SPOTLIGHT
+      </mj-text>
+    </mj-section>
+
+    <mj-section padding="0" css-class="bg-white">
+      <mj-column padding="0">
+        <mj-image border-radius="15px" src="https://i.ibb.co/QM4hHg1/Reshema.png" alt="Reshema Kemps-Polanco" />
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">
+          <h3>Meet Reshema Kemps-Polanco!</h3>
+        </mj-text>
+        <mj-text align="left" line-height="25px" font-size="13px">
+          Reshema serves as Executive Vice President, Chief Commercial Officer, US, Novartis. With her colleagues at Novartis, she is working to ensure Black people with cancer are empowered when it comes to their health and can receive the best treatments and care possible.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px" css-class="bg-white">
+      <mj-column padding="0">
+        <mj-text padding="0" align="left" line-height="25px" font-size="14px">
+          Reshema first heard about Novartis through their patient assistance program when she was working as a social worker. When she decided to move into the pharmaceutical industry, Novartis called, and she accepted a job as a pharmaceutical sales representative. She's worked in various roles during her 15 collective years at Novartis, each in service of a larger purpose: impacting patient survival.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px" css-class="bg-white">
+      <mj-column padding="0">
+        <mj-text padding="0" align="left" line-height="25px" font-size="14px">
+          When it comes to her success at Novartis as a Black woman, Reshema credits sponsorship for giving her important opportunities to prove her abilities. She had the support of managers, leaders, and colleagues, who elevated her by connecting her with opportunities and advocating for her advancement. Recently, she highlighted that according to the Harvard Business Review, only 5% of Black employees are gaining sponsorship, compared to 20% of white employees. She wants to close that gap and help diverse leadership rise in the workplace.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px" css-class="bg-white">
+      <mj-column padding="0">
+        <mj-text padding="0" align="left" line-height="25px" font-size="14px">
+          On <b>September 21, 2023</b>, Reshema is joining a panel of experts and others with unique experiences related to cancer to talk about the importance of cancer screening, specifically for Black people. She will also share how Novartis is working with the community to address inequalities in cancer care. Tune into the livestream, "<a href="https://www.facebook.com/events/1021931619150392/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A671842527955151%7D%7D]%22%7D" alt="Facebook" class="link-color">Be the Impact: Why Cancer Screening Supports Black Communities</a>."
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./components/divider.mjml" />
+
+    <mj-raw>
+      <!-- Stay Connected -->
+    </mj-raw>
+    <mj-section padding="0px" css-class="bg-white">
+      <mj-column>
+        <mj-text mj-class="h1">
+          STAY CONNECTED
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" padding-bottom="15px" css-class="bg-white">
+      <mj-column>
+        <mj-text align="center">
+          Find out more about <a href="https://www.linkedin.com/in/reshema-kemps-polanco-4645745/" alt="Linked" class="link-color">Reshema</a> , the work <a href="https://www.novartis.com/about/therapeutic-areas/solid-tumors" alt="Novartis" class="link-color">Novartis</a> does for people with cancer and the
+        </mj-text>
+        <mj-text align="center">
+          <a href="https://www.cancer.org/cancer/screening/get-screened.html" alt="American Cancer Society" class="link-color">Get Screened</a> initiative.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-section padding="0" css-class="bg-black">
+      <mj-column padding="40px" align="center">
+        <mj-image width="200px" src="https://i.ibb.co/0nt0qD8/logo.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" css-class="bg-black">
+      <mj-column padding="0">
+        <mj-text padding="0" align="center" line-height="25px" font-size="12px" color="#cfcfcf">
+          <em>Copyright © 2023 BLAVITY INC., All rights reserved
+          </em>
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text padding="0" align="center" line-height="25px" font-size="12px" color="#cfcfcf">
+          Want to change how you receive these emails?
+        </mj-text>
+        <mj-text padding="0" align="center" font-size="12px" color="#cfcfcf">
+          You can <a href="#" class="browser-link">update your preferences</a> or <a href="#" class="browser-link">unsubscribe from this list</a>.
+        </mj-text>
+        <mj-spacer height="25px" />
+        <mj-text padding-left="30px" align="right" font-size="12px" color="#cfcfcf">
+          6/23 282954
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
